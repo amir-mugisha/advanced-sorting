@@ -1,5 +1,7 @@
 package com.atlab.advanced.sorting.utils;
 
+import com.atlab.advanced.sorting.Actor.Actor;
+
 import java.util.List;
 import java.util.Map;
 

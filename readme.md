@@ -8,6 +8,9 @@ This application is part of a larger ecosystem that interacts
 with a PostgreSQL database to manage movies and actors,
 showcasing the use of JPA for database operations.
 
+## Link to sample demo
+[sample demo](https://www.loom.com/share/3aa47c02be0c42f7b4ca6d928da0dcfb?sid=9daee714-5d00-496a-83d9-2b0f8f5afb84)
+
 ## Project Setup
 
 - **Language**: Java
@@ -20,7 +23,7 @@ showcasing the use of JPA for database operations.
 - Managing movies and actors in a PostgreSQL database.
 - Demonstrating CRUD operations with Spring Data JPA.
 - Sorting lists with various sorting algorithms.
-- 
+
 ## Configuration
 
 The application is configured to connect to a PostgreSQL
